@@ -5,4 +5,4 @@ This repository contains just a basic electron setup to create a windows executa
 1. `yarn install`
 2. [Clone and build Excalidraw](https://github.com/excalidraw/excalidraw#readme)
 3. Copy the output into the `/content/` folder
-4. `yarn make`
+4. `yarn run make`
