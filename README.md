@@ -1,6 +1,6 @@
-# excalidrawElectron
+# Excalitron
 
-This repository contains just a basic electron setup to create a windows executable for [Excalidraw](https://github.com/excalidraw/excalidraw).
+This repository contains just a basic [Electron](https://www.electronjs.org/de/) setup to create a windows executable for [Excalidraw](https://github.com/excalidraw/excalidraw).
 
 1. `yarn install`
 2. [Clone and build Excalidraw](https://github.com/excalidraw/excalidraw#readme)
