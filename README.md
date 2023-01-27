@@ -4,5 +4,6 @@ This repository contains just a basic [Electron](https://www.electronjs.org/de/)
 
 1. `yarn install`
 2. [Clone and build Excalidraw](https://github.com/excalidraw/excalidraw#readme)
-3. Copy the output into the `/content/` folder
-4. `yarn run make`
+3. `mkdir src`
+4. Copy the output of Excalidraw into the `/src/` folder
+5. `yarn run make`

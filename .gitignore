@@ -1,6 +1,5 @@
 /node_modules/
 /out/
-/content/*
-!/content/README.md
+/src/
 /package-lock.json
 /yarn.lock
